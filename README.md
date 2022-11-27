@@ -6,8 +6,8 @@
 </p>
 
 ## 👋 Hey there 
-* I'm Tai Nguyen and a Software Engineer student at Metropolia University of Applied Sciences. <br>
-* Specialization: Mobile Solutions  -  meaning that currently my study focuses mainly on Mobiles and Website Applications. <br>
+* I'm Tai Nguyen and I'm a Software Engineer student at Metropolia University of Applied Sciences. <br>
+* Specialization: Mobile Solutions  -  meaning that my study focuses mainly on Mobiles and Website Applications. <br>
 * I learnt a lot through open-source community and I hope one day I would be an open source myself for knowledge sharing and collaboration  
 
 ## 🔥 Things I'm passionate about
