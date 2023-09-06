@@ -7,7 +7,7 @@
 
 ## 👋 Hey there 
 * I'm Tai Nguyen and I'm a Software Engineer student at Metropolia University of Applied Sciences. <br>
-* Specialization: Mobile Solutions  -  meaning that my study focuses mainly on Mobiles and Website Applications. <br>
+* Specialization: Mobile Solutions  -  meaning that my study focuses mainly on Mobiles and Website Applications, or in short, Software development. <br>
 * I learnt a lot through open-source community and I hope one day I would be an open source myself for knowledge sharing and collaboration  
 
 ## 🔥 Things I'm passionate about
@@ -17,9 +17,9 @@
 
 ## 📖 Things I'm learning
 #### 💻 Web Technology
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,mysql,react,python,aws,azure,docker)](https://skills.thijs.gg)
 #### 📱 Mobile 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,swift,)](https://skills.thijs.gg)
 #### 🤏 Version Control
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
 
